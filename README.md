@@ -16,11 +16,11 @@ An Enthusiastic Computer Science Student at SEECS, NUST, Islamabad
 📫 How to reach me 
 
 <p align="center">
-<a href="mailto:muhammaddanish1458@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://linkedin.com/in/mda1458" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://www.facebook.com/mda1458/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="" height="40" width="40" /></a>&nbsp&nbsp
-<a href="https://instagram.com/iamdanish1458" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/4923/4923005.png" alt="" height="45" width="45" /></a>&nbsp&nbsp
-<a href="https://www.hackerrank.com/Mda1458" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="" height="50" width="50" /></a>
+<a href="mailto:muhammaddanish1458@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://linkedin.com/in/mda1458" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://www.facebook.com/mda1458/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://instagram.com/iamdanish1458" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/4923/4923005.png" alt="" height="45" width="45" /></a>&nbsp&nbsp
+<a href="https://www.hackerrank.com/Mda1458" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="" height="50" width="50" /></a>
 </p>
 
 
