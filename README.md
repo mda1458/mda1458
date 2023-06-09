@@ -1,8 +1,10 @@
+<div align="center"><img src="https://streak-stats.demolab.com/?user=mda1458&theme=vision-friendly-dark"> </div>
+
 ## <div align="center">🚀 Hi there! I'm Muhammad Danish Azeem 👋🏻 </div>
 
 An Enthusiastic Computer Science Student at SEECS, NUST, Islamabad
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mda1458&theme=onestar&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mda1458&theme=onestar&column=7&row=1"></div>
 
 
 👩‍💻 I'm currently working on **JavaScript Frameworks**
