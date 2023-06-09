@@ -1,18 +1,33 @@
-### Hi there 👋
+## <div align="center">🚀 Hi there! I'm Muhammad Danish Azeem 👋🏻 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mda1458&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+An Enthusiastic Computer Science Student at SEECS, NUST, Islamabad
 
-<!--
-**mda1458/mda1458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=mda1458&theme=onestar&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 I'm currently working on **JavaScript Frameworks**
+
+🧠 I'm currently learning **Full Stack Web Development**
+
+👯‍♀️ I'm looking to collaborate on **Web Development and Cyber Security**
+
+🤔 I'm looking for help with **Cyber Security**
+
+📫 How to reach me 
+
+<p align="center">
+<a href="mailto:muhammaddanish1458@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://linkedin.com/in/mda1458" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://www.facebook.com/mda1458/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="" height="40" width="40" /></a>&nbsp&nbsp
+<a href="https://instagram.com/iamdanish1458" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/4923/4923005.png" alt="" height="45" width="45" /></a>&nbsp&nbsp
+<a href="https://www.hackerrank.com/Mda1458" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="" height="50" width="50" /></a>
+</p>
+
+
+## <div align="center"> 🛠 Skills </div>
+
+| Programming Languages | Dev Stack |
+| --- | --- |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFFFFF)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mda1458&show_icons=true&theme=highcontrast) &emsp; &emsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mda1458&layout=donut&theme=highcontrast)
