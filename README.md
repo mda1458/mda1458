@@ -4,7 +4,7 @@
 
 An Enthusiastic Computer Science Student at SEECS, NUST, Islamabad
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mda1458&theme=onestar&column=7&row=1"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mda1458&theme=algolia&column=7&row=1&no-bg=true&no-frame=true"></div>
 
 
 👩‍💻 I'm currently working on **JavaScript Frameworks**
