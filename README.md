@@ -1,4 +1,4 @@
-<div align="center"><img src="https://streak-stats.demolab.com?user=mda1458&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800&background=EB545400&sideLabels=1F6FEB&sideNums=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB"> </div>
+<div align="center"><img src="https://streak-stats.demolab.com?user=mda1458&theme=github-dark&hide_border=true&card_width=800&background=EB545400&sideLabels=1F6FEB&sideNums=1F6FEB&currStreakNum=1F6FEB&currStreakLabel=1F6FEB"> </div>
 
 ## <div align="center">🚀 Hi there! I'm Muhammad Danish Azeem 👋🏻 </div>
 
