@@ -26,6 +26,10 @@ An Enthusiastic Computer Science Student at SEECS, NUST, Islamabad
 <a href="https://www.hackerrank.com/Mda1458" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="" height="50" width="50" /></a>
 </p>
 
+## <div align="center">Visitor's count 👀</div>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{mda1458}/count.svg"></p>
+
 
 ## <div align="center"> 🛠 Skills </div>
 
